@@ -62,11 +62,6 @@ python main.py gui
 - 批量操作包括删除与导出
 - 右侧操作区支持重命名、改类型和复核
 
-## 说明
-
-- 当前项目采用 **源码可见（source-available）** 的自定义限制性授权方式。
-- 仓库中会保留 `data/` 与 `db/` 的目录骨架，但不会提交你的实际运行数据。
-
 ## License
 
 详见 [LICENSE.md](./LICENSE.md)
