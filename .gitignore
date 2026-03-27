@@ -15,7 +15,6 @@ db/
 
 # Build artifacts
 build/gui_main/
-dist/
 build/installer/output/
 
 # Windows noise
