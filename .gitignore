@@ -13,6 +13,24 @@ __pycache__/
 data/
 db/
 
+# Keep runtime directory skeletons in repo
+!data/
+data/*
+!data/.gitkeep
+!data/assets/
+data/assets/*
+!data/assets/.gitkeep
+!data/exports/
+data/exports/*
+!data/exports/.gitkeep
+!data/previews/
+data/previews/*
+!data/previews/.gitkeep
+
+!db/
+db/*
+!db/.gitkeep
+
 # Build artifacts
 build/gui_main/
 build/installer/output/
