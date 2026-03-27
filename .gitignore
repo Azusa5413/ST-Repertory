@@ -32,18 +32,8 @@ db/*
 !db/.gitkeep
 
 # Build artifacts
-build/gui_main/
-build/installer/output/
+build/
 dist/
-
-# Keep publishable packaged outputs
-!dist/
-dist/*
-!dist/STRepertory.exe
-
-!build/installer/output/
-build/installer/output/*
-!build/installer/output/STRepertory-setup.exe
 
 # Windows noise
 Thumbs.db
