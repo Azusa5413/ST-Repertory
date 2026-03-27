@@ -32,7 +32,8 @@ db/*
 !db/.gitkeep
 
 # Build artifacts
-build/
+build/gui_main/
+build/installer/output/
 dist/
 
 # Windows noise
