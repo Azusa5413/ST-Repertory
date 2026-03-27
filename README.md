@@ -51,7 +51,7 @@ python main.py gui
 
 ### 使用打包产物
 
-- 目录版：`dist/STRepertory/STRepertory.exe`
+- 目录版：`dist/STRepertory.exe`
 - 安装版：`build/installer/output/STRepertory-setup.exe`
 
 ## 基本操作

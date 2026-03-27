@@ -20,7 +20,7 @@ WizardStyle=modern
 Name: "english"; MessagesFile: "compiler:Default.isl"
 
 [Files]
-Source: "..\..\dist\STRepertory\*"; DestDir: "{app}"; Flags: recursesubdirs ignoreversion
+Source: "..\..\dist\STRepertory.exe"; DestDir: "{app}"; Flags: ignoreversion
 
 [Dirs]
 Name: "{app}\data"

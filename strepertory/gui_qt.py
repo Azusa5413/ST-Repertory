@@ -69,7 +69,7 @@ class TavernAssetLibraryWindow(QMainWindow):
         self.current_preview_pixmap: QPixmap | None = None
 
         self.setWindowTitle(f"{APP_NAME} {APP_VERSION}")
-        icon_path = self.paths.root / "assets" / "app_icon.svg"
+        icon_path = self.paths.bundle_root / "assets" / "app_icon.svg"
         if icon_path.exists():
             self.setWindowIcon(QIcon(str(icon_path)))
         self.resize(1600, 980)
