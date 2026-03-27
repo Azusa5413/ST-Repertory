@@ -1,0 +1,10 @@
+{
+  "include": [
+    "main.py",
+    "gui_main.py",
+    "strepertory"
+  ],
+  "extraPaths": [
+    "."
+  ]
+}

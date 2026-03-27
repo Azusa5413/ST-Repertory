@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Ruff cache
+.ruff_cache/
+
+# IDE
+.idea/
+
+# Runtime data
+data/
+db/
+
+# Build artifacts
+build/gui_main/
+dist/
+build/installer/output/
+
+# Windows noise
+Thumbs.db
+Desktop.ini
