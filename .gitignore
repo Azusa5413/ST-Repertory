@@ -16,11 +16,12 @@ db/
 # Build artifacts
 build/gui_main/
 build/installer/output/
+dist/
 
 # Keep publishable packaged outputs
 !dist/
-!dist/STRepertory/
-!dist/STRepertory/**
+dist/*
+!dist/STRepertory.exe
 
 !build/installer/output/
 build/installer/output/*
