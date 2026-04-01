@@ -39,3 +39,6 @@ dist/
 # Windows noise
 Thumbs.db
 Desktop.ini
+
+# Local agent guidance files
+AGENTS.md
